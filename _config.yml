@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Ravi Bandlamudi Homepage"
+title                    : "Ravi Homepage"
 title_separator          : "-"
 name                     : &name "Ravi Chandra Bandlamudi"
 description              : &description "Software Engineer at Dropbox"
@@ -76,7 +76,7 @@ author:
   bio              : "Software Engineer at Dropbox"
   location         : "San Jose, CA"
   employer         :
-  googlescholar    : ""
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -91,13 +91,12 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
